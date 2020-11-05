@@ -1,2 +1,4 @@
-def input_to_index
+def input_to_index(user_input)
+  
+
 end
